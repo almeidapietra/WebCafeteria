@@ -1,5 +1,5 @@
 # Manhattan - Coffee House
-[![NPM](https://github.com/almeidapietra/WebCafeteria/blob/main/LICENSE)
+[![NPM](https://img.shields.io/npm/l/react)](https://github.com/almeidapietra/WebCafeteria/blob/main/LICENSE)
 
 ## Sobre o Projeto
 

@@ -1,5 +1,5 @@
 # Manhattan - Coffee House
-[![NPM](https://github.com/almeidapietra/WebCafeteria/blob/main/LICENSE) 
+[![NPM](https://github.com/almeidapietra/WebCafeteria/blob/main/LICENSE)
 
 ## Sobre o Projeto
 
@@ -13,7 +13,7 @@ Além do indicado no curso para elaboração do projeto, adicionei responsividad
 
 ## Layout web
 
-[<img src="/assets/animacao_webCafeteria.mp4" alt="video da tela do projeto">]
+[<img src="/assets/LayoutWebCafeteria.gif" alt="video da tela do projeto">]
 
 ##Tecnologias utilizadas
 -HTML
